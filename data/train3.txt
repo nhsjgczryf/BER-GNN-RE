@@ -1,0 +1,12 @@
+10715	"The <e1>umbrella</e1> <e2>frame</e2> is provided with a movable yoke at the upper end and a stationary yoke at an intermediate point."
+Component-Whole(e2,e1)
+Comment:
+
+10716	"Manos: The Hands of Fate is a low-budget horror <e1>film</e1> made by El Paso fertilizer <e2>salesman</e2> Hal P. Warren."
+Product-Producer(e1,e2)
+Comment: (a), (d) satisfied
+
+10717	"A few days before the service, Tom Burris had thrown into Karen's <e1>casket</e1> his wedding <e2>ring</e2>."
+Entity-Destination(e2,e1)
+Comment:
+

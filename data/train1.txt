@@ -1,0 +1,4 @@
+1	"The system as described above has its greatest application in an arrayed <e1>configuration</e1> of antenna <e2>elements</e2>."
+Component-Whole(e2,e1)
+Comment: Not a collection: there is structure here, organisation.
+
